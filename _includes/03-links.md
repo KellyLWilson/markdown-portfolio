@@ -1,1 +1,1 @@
-[My GitHub Link] (https://github.com/KellyLWilson)
+[My GitHub Link](https://github.com/KellyLWilson)
